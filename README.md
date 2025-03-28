@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm nacho from Argentina<br><br>- 🔭 I’m studyin I am studying systems engineering<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I  play football and code</p>
+<p align="left">I'm nacho from Argentina<br><br>- 🔭 I’m studyin systems engineering<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I  play football and program</p>
 
 ###
 
